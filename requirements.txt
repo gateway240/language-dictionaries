@@ -1,0 +1,3 @@
+jupyterlab
+pandas
+pytablewriter==1.2.1
