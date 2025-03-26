@@ -1,82 +1,82 @@
-|        English (American)         |            Finnish (Suomi)             |    Russian (Русский)    |
-|-----------------------------------|----------------------------------------|-------------------------|
-|research                           |tutkimus                                |исследование             |
-|to research                        |tutkia                                  |изучать                  |
-|research journey                   |tutkimusseikkailu                       |???                      |
-|graduate student                   |jatko-opiskelija                        |аспирант                 |
-|Doctoral Researcher (Ph.D.)        |Väitöskirjatutkija                      |???                      |
-|Computer Science                   |Tietojenkäsittelytiede                  |Информатика              |
-|Software Engineer                  |Ohjelmistokehittäjä                     |Инженер-программист      |
-|company                            |yhtiö                                   |компания                 |
-|consulting company                 |konsulttiyritys                         |консалтинговая компания  |
-|entrepreneur                       |yrittäjä                                |предприниматель          |
-|mathematics                        |matematiikka                            |математика               |
-|Information Technology             |Tietotekniikka/Informaatiotekniika      |информационная технология|
-|Mechatronic System Design          |Mekatroniika                            |???                      |
-|Bachelor's Degree                  |Kandidaatti                             |степень бакалавра        |
-|Master's Degree                    |Maisteriohjelma                         |степень магистра         |
-|scholar                            |stipendiaatti                           |ученый                   |
-|scholarship                        |stipendi                                |стипендия                |
-|Embedded Systems                   |Sulautetut Järjestelmät                 |Встраиваемая система     |
-|Communications (telecommunicaitons)|Tiedonsiirto                            |???                      |
-|teacher's assistant                |opettajien avustaja                     |???                      |
-|equipment                          |laitteet                                |оборудование             |
-|movement                           |liike                                   |движение                 |
-|measurement                        |mittaus                                 |???                      |
-|to measure                         |mitata                                  |измерять                 |
-|analysis                           |analyysi                                |???                      |
-|to analyze                         |analysoida                              |анализировать            |
-|movement analysis                  |liikeanalyysi                           |анализ движений          |
-|Musculoskeletal Disorders          |Tuki- ja liikuntaelinsairaudet          |???                      |
-|to improve                         |parantaa                                |улучшать                 |
-|energy expenditure                 |energiankulutus                         |???                      |
-|sport's performance                |urheilusuoritukset                      |???                      |
-|joints (mechanical)                |nivelet                                 |суставы                  |
-|loading                            |kuormitus                               |???                      |
-|quality of life                    |elämänlaatu                             |качество жизни           |
-|individuals                        |yksilöt                                 |???                      |
-|to develop                         |kehittää                                |развивать                |
-|control methods                    |ohjausmenetelmät                        |методы контроля          |
-|efficient                          |tehokas                                 |эффективный              |
-|robotic assistants                 |robottiavustajat                        |Роботы-помощники         |
-|equipment                          |varusteet                               |???                      |
-|treadmill                          |juoksumatto                             |Беговая дорожка          |
-|instrumented treadmill             |juoksumatto varustettu mittauslaitteilla|???                      |
-|force plates                       |voimalevyt                              |???                      |
-|dynamometer                        |dynamometri                             |динамометр               |
-|tape                               |teippi                                  |лента                    |
-|punching bag                       |nyrkkeilysäkki                          |боксёрская груша         |
-|boxing                             |nyrkkeily                               |бокс                     |
-|Optical Motion Capture             |Optinen liikkeenkaappaus                |???                      |
-|Electromyography (EMG)             |Lihassähkökäyrä                         |Электромиография         |
-|Inertial Measurement Unit (IMU)    |Inertiamittausmoduuli                   |Гиростабилизатор         |
-|accelerometer                      |kiihtyvyysmittari                       |Акселерометр             |
-|magnetometer                       |magnetometri                            |Магнитометр              |
-|gyroscope                          |gyroskooppi                             |Гироскоп                 |
-|distance                           |etäisyys                                |расстояние               |
-|inter-sensor distance              |anturien välinen etäisyys               |???                      |
-|ethics committee                   |eettinen toimikunta                     |комитет по этике         |
-|approved                           |hyväksytty                              |???                      |
-|upcoming                           |tulevat                                 |???                      |
-|to participate                     |osallistu                               |участвовать              |
-|crab walking                       |rapukävelyä                             |крабовая прогулка        |
-|to walk                            |kävellä                                 |ходить                   |
-|to jog                             |hölkkätä                                |бегать                   |
-|to run                             |juosta                                  |бежать                   |
-|to jump                            |hypätä                                  |прыгать                  |
-|to squat                           |kyykistyä                               |приседать                |
-|kettlebell                         |kahvakuula                              |Спортивная гиря          |
-|kettlebell swing                   |kahvakuullaheilautuksia                 |???                      |
-|weight lifting                     |painoharjoitteitta                      |поднятие веса            |
-|to lift                            |nostaa                                  |поднимать                |
-|safely                             |turvallisesti                           |безопасно                |
-|fractures                          |murtumia                                |???                      |
-|heart                              |sydän                                   |сердце                   |
-|to breathe                         |hengittää                               |дышать                   |
-|to publish                         |julkaista                               |публиковать              |
-|questions                          |kysymyksiä                              |вопросы                  |
-|to progress                        |edistyä                                 |продвигаться             |
-|movement measurement technology    |liikemittausteknologia                  |???                      |
-|simulation                         |simulointi                              |моделирование            |
-|probability                        |todennäköisyys                          |вероятность              |
-|inverse kinematics                 |käänteiskinematiika                     |Инверсная кинематика     |
+|        English (American)         |             Finnish (Suomi)             |           Russian (Русский)           |
+|-----------------------------------|-----------------------------------------|---------------------------------------|
+|accelerometer                      |kiihtyvyysmittari                        |Акселерометр                           |
+|analysis                           |analyysi                                 |анализ                                 |
+|approved                           |hyväksytty                               |одобрено                               |
+|Bachelor's Degree                  |Kandidaattiohjelma / maisterin tutkinto  |степень бакалавра                      |
+|boxing                             |nyrkkeily                                |бокс                                   |
+|Communications (telecommunicaitons)|Tiedonsiirto                             |коммуникации (телекоммуникации)        |
+|company                            |yhtiö                                    |компания                               |
+|Computer Science                   |Tietojenkäsittelytiede                   |Информатика                            |
+|consulting company                 |konsulttiyritys                          |консалтинговая компания                |
+|control methods                    |ohjausmenetelmät                         |методы контроля                        |
+|crab walking                       |rapukävely                               |крабовая прогулка                      |
+|distance                           |etäisyys                                 |расстояние                             |
+|Doctoral Researcher (Ph.D.)        |Väitöskirjatutkija                       |соискатель докторской степени          |
+|dynamometer                        |dynamometri                              |динамометр                             |
+|efficient                          |tehokas                                  |эффективный                            |
+|Electromyography (EMG)             |Lihassähkökäyrä                          |Электромиография                       |
+|Embedded Systems                   |Sulautetut Järjestelmät                  |Встраиваемая система                   |
+|energy expenditure                 |energiankulutus                          |энергетические затраты человека        |
+|entrepreneur                       |yrittäjä                                 |предприниматель                        |
+|equipment                          |laitteet                                 |оборудование                           |
+|equipment                          |varusteet                                |оборудование                           |
+|ethics committee                   |eettinen toimikunta                      |комитет по этике                       |
+|force plates                       |voimalevyt                               |силовая платформа                      |
+|fractures                          |murtumat                                 |перелом                                |
+|graduate student                   |jatko-opiskelija                         |аспирант                               |
+|gyroscope                          |gyroskooppi                              |Гироскоп                               |
+|heart                              |sydän                                    |сердце                                 |
+|individuals                        |yksilöt                                  |индивидуум                             |
+|Inertial Measurement Unit (IMU)    |Inertiamittausmoduuli                    |Гиростабилизатор                       |
+|Information Technology             |Tietotekniikka/Informaatiotekniika       |информационная технология              |
+|instrumented treadmill             |juoksumatto varustettu mittauslaitteilla |реабилитационная беговая дорожка       |
+|inter-sensor distance              |anturien välinen etäisyys                |межсенсорное расстояние                |
+|inverse kinematics                 |käänteiskinematiika                      |Инверсная кинематика                   |
+|joints (mechanical)                |nivelet                                  |суставы                                |
+|kettlebell                         |kahvakuula                               |Спортивная гиря                        |
+|kettlebell swing                   |kahvakuullaheilautus                     |мах гири                               |
+|loading                            |kuormitus                                |нагрузка                               |
+|magnetometer                       |magnetometri                             |Магнитометр                            |
+|Master's Degree                    |Maisteriohjelma / maisterin tutkinto     |степень магистра                       |
+|mathematics                        |matematiikka                             |математика                             |
+|measurement                        |mittaus                                  |измерение                              |
+|Mechatronic System Design          |Mekatroniika                             |разработка мехатронного модуля         |
+|movement                           |liike                                    |движение                               |
+|movement analysis                  |liikeanalyysi                            |анализ движений                        |
+|movement measurement technology    |liikemittausteknologia                   |методы измерения движения              |
+|Musculoskeletal Disorders          |Tuki- ja liikuntaelinsairaudet           |нарушение опорно-двигательного аппарата|
+|Optical Motion Capture             |Optinen liikkeenkaappaus                 |Оптический захват движения             |
+|probability                        |todennäköisyys                           |вероятность                            |
+|punching bag                       |nyrkkeilysäkki                           |боксёрская груша                       |
+|quality of life                    |elämänlaatu                              |качество жизни                         |
+|questions                          |kysymykset                               |вопросы                                |
+|research                           |tutkimus                                 |исследование                           |
+|research journey                   |tutkimusseikkailu / tutkimusmatka        |исследовательский процесс              |
+|robotic assistants                 |robottiavustajat                         |Роботы-помощники                       |
+|safely                             |turvallisesti                            |безопасно                              |
+|scholar                            |stipendiaatti                            |ученый                                 |
+|scholarship                        |stipendi                                 |стипендия                              |
+|simulation                         |simulointi                               |моделирование                          |
+|Software Engineer                  |Ohjelmistokehittäjä                      |Инженер-программист                    |
+|sport's performance                |Urheilusuoritus / suorituskyky urheilussa|спортивный показатель                  |
+|tape                               |teippi                                   |лента                                  |
+|teacher's assistant                |opettajien avustaja                      |помощник преподавателя                 |
+|to analyze                         |analysoida                               |анализировать                          |
+|to breathe                         |hengittää                                |дышать                                 |
+|to develop                         |kehittää                                 |развивать                              |
+|to improve                         |parantaa                                 |улучшать                               |
+|to jog                             |hölkkätä                                 |бегать                                 |
+|to jump                            |hypätä                                   |прыгать                                |
+|to lift                            |nostaa                                   |поднимать                              |
+|to measure                         |mitata                                   |измерять                               |
+|to participate                     |osallistua                               |участвовать                            |
+|to progress                        |edistyä                                  |продвигаться                           |
+|to publish                         |julkaista                                |публиковать                            |
+|to research                        |tutkia                                   |изучать                                |
+|to run                             |juosta                                   |бежать                                 |
+|to squat                           |kyykistyä                                |приседать                              |
+|to walk                            |kävellä                                  |ходить                                 |
+|treadmill                          |juoksumatto                              |Беговая дорожка                        |
+|upcoming                           |tuleva / tulevat                         |развивающийся                          |
+|weight lifting                     |painoharjoitteet                         |поднятие веса                          |
