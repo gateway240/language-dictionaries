@@ -3,7 +3,7 @@
 |accelerometer                      |kiihtyvyysmittari                        |Акселерометр                           |
 |analysis                           |analyysi                                 |анализ                                 |
 |approved                           |hyväksytty                               |одобрено                               |
-|Bachelor's Degree                  |Kandidaattiohjelma / maisterin tutkinto  |степень бакалавра                      |
+|Bachelor's Degree                  |Kandidaattiohjelma / kandidaatin tutkinto|степень бакалавра                      |
 |boxing                             |nyrkkeily                                |бокс                                   |
 |Communications (telecommunicaitons)|Tiedonsiirto                             |коммуникации (телекоммуникации)        |
 |company                            |yhtiö                                    |компания                               |
@@ -35,7 +35,7 @@
 |inverse kinematics                 |käänteiskinematiika                      |Инверсная кинематика                   |
 |joints (mechanical)                |nivelet                                  |суставы                                |
 |kettlebell                         |kahvakuula                               |Спортивная гиря                        |
-|kettlebell swing                   |kahvakuullaheilautus                     |мах гири                               |
+|kettlebell swing                   |kahvakuulaheilautus                      |мах гири                               |
 |loading                            |kuormitus                                |нагрузка                               |
 |magnetometer                       |magnetometri                             |Магнитометр                            |
 |Master's Degree                    |Maisteriohjelma / maisterin tutkinto     |степень магистра                       |
@@ -66,7 +66,7 @@
 |to breathe                         |hengittää                                |дышать                                 |
 |to develop                         |kehittää                                 |развивать                              |
 |to improve                         |parantaa                                 |улучшать                               |
-|to jog                             |hölkkätä                                 |бегать                                 |
+|to jog                             |hölkätä                                  |бегать                                 |
 |to jump                            |hypätä                                   |прыгать                                |
 |to lift                            |nostaa                                   |поднимать                              |
 |to measure                         |mitata                                   |измерять                               |
@@ -75,7 +75,7 @@
 |to publish                         |julkaista                                |публиковать                            |
 |to research                        |tutkia                                   |изучать                                |
 |to run                             |juosta                                   |бежать                                 |
-|to squat                           |kyykistyä                                |приседать                              |
+|to squat                           |kyykäkä                                  |приседать                              |
 |to walk                            |kävellä                                  |ходить                                 |
 |treadmill                          |juoksumatto                              |Беговая дорожка                        |
 |upcoming                           |tuleva / tulevat                         |развивающийся                          |
