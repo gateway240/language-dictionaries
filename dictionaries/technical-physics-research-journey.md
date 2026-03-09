@@ -1,9 +1,9 @@
 |        English (American)         |             Finnish (Suomi)             |           Russian (Русский)           |
 |-----------------------------------|-----------------------------------------|---------------------------------------|
-|accelerometer                      |kiihtyvyysmittari                        |Акселерометр                           |
+|accelerometer                      |kiihtyvyysanturi                         |Акселерометр                           |
 |analysis                           |analyysi                                 |анализ                                 |
 |approved                           |hyväksytty                               |одобрено                               |
-|Bachelor's Degree                  |Kandidaattiohjelma / kandidaatin tutkinto|степень бакалавра                      |
+|Bachelor's Degree                  |kandidaatin tutkinto                     |степень бакалавра                      |
 |boxing                             |nyrkkeily                                |бокс                                   |
 |Communications (telecommunicaitons)|Tiedonsiirto                             |коммуникации (телекоммуникации)        |
 |company                            |yhtiö                                    |компания                               |
@@ -30,7 +30,7 @@
 |individuals                        |yksilöt                                  |индивидуум                             |
 |Inertial Measurement Unit (IMU)    |Inertiamittausmoduuli                    |Гиростабилизатор                       |
 |Information Technology             |Tietotekniikka/Informaatiotekniika       |информационная технология              |
-|instrumented treadmill             |juoksumatto varustettu mittauslaitteilla |реабилитационная беговая дорожка       |
+|instrumented treadmill             |instrumentoitu juoksumatto               |реабилитационная беговая дорожка       |
 |inter-sensor distance              |anturien välinen etäisyys                |межсенсорное расстояние                |
 |inverse kinematics                 |käänteiskinematiika                      |Инверсная кинематика                   |
 |joints (mechanical)                |nivelet                                  |суставы                                |
@@ -38,14 +38,14 @@
 |kettlebell swing                   |kahvakuulaheilautus                      |мах гири                               |
 |loading                            |kuormitus                                |нагрузка                               |
 |magnetometer                       |magnetometri                             |Магнитометр                            |
-|Master's Degree                    |Maisteriohjelma / maisterin tutkinto     |степень магистра                       |
+|Master's Degree                    |maisterin tutkinto                       |степень магистра                       |
 |mathematics                        |matematiikka                             |математика                             |
 |measurement                        |mittaus                                  |измерение                              |
-|Mechatronic System Design          |Mekatroniika                             |разработка мехатронного модуля         |
+|Mechatronics                       |mekatroniikka                            |разработка мехатронного модуля         |
 |movement                           |liike                                    |движение                               |
 |movement analysis                  |liikeanalyysi                            |анализ движений                        |
 |movement measurement technology    |liikemittausteknologia                   |методы измерения движения              |
-|Musculoskeletal Disorders          |Tuki- ja liikuntaelinsairaudet           |нарушение опорно-двигательного аппарата|
+|Musculoskeletal Disorders          |Tuki- ja liikuntaelinsairaudet (TULES)   |нарушение опорно-двигательного аппарата|
 |Optical Motion Capture             |Optinen liikkeenkaappaus                 |Оптический захват движения             |
 |probability                        |todennäköisyys                           |вероятность                            |
 |punching bag                       |nyrkkeilysäkki                           |боксёрская груша                       |
@@ -61,7 +61,7 @@
 |Software Engineer                  |Ohjelmistokehittäjä                      |Инженер-программист                    |
 |sport's performance                |Urheilusuoritus / suorituskyky urheilussa|спортивный показатель                  |
 |tape                               |teippi                                   |лента                                  |
-|teacher's assistant                |opettajien avustaja                      |помощник преподавателя                 |
+|teaching assistant                 |opetusassistentti / assari               |помощник преподавателя                 |
 |to analyze                         |analysoida                               |анализировать                          |
 |to breathe                         |hengittää                                |дышать                                 |
 |to develop                         |kehittää                                 |развивать                              |
@@ -79,4 +79,5 @@
 |to walk                            |kävellä                                  |ходить                                 |
 |treadmill                          |juoksumatto                              |Беговая дорожка                        |
 |upcoming                           |tuleva / tulevat                         |развивающийся                          |
-|weight lifting                     |painoharjoitteet                         |поднятие веса                          |
+|weight lifting                     |painonnosto                              |поднятие веса                          |
+|weight training                    |painoharjoittelu                         |силовые тренировки                     |
